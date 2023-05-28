@@ -1,0 +1,29 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+h1{
+    color: #000000;
+    font-size: 96px;
+    font-weight: 100; 
+    font-style: oblique;
+    text-decoration: underline;
+    text-transform:uppercase;
+    text-align: center;
+ }
+
+ p{
+    font-size: 18px;
+    text-align: justify;
+    text-indent: 25px;
+ }
+
+ .bg{
+    height: 500px;
+    width: 100%;
+    background-color: #afbf0c;
+    background-image: url('https://images.unsplash.com/photo-1685172609591-2451bc080804?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxlZGl0b3JpYWwtZmVlZHw3fHx8ZW58MHx8fHx8&auto=format&fit=crop&w=500&q=60');
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+ }
